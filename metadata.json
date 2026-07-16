@@ -1,0 +1,6 @@
+{
+  "name": "Binu's CNC Hub",
+  "description": "Enterprise-grade CNC Operations Management platform for Binu. Features RBAC, dynamic theming, localized Indian mock data, and full SPA architecture without AI hints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

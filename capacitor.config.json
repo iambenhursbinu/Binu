@@ -1,0 +1,6 @@
+{
+  "appId": "com.binucnc.hub",
+  "appName": "Binu's CNC Hub",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
